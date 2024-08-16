@@ -27,3 +27,5 @@ def arithmetic_operation(a, b, operation):
 # Example usage:
 result = arithmetic_operation(10, 5, 'add')
 print(result)  # Output: 15
+
+print(result)
